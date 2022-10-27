@@ -29,7 +29,7 @@ nav a:hover {
 
 /*HOME*/
 body {
-	
+	background: #beb498;
 }
 
 #coffe {
@@ -37,7 +37,7 @@ body {
 }
 
 .principal {
-	background: #CCCCCC
+	background: #CCCCCC;
 	padding: 30px;
 }
 
