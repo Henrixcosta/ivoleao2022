@@ -94,3 +94,8 @@ footer {
     background: url(logo.png);
     padding: 40px 0;
  }
+
+ main {
+    width: 940px;
+    margin: 0 auto;
+ }
